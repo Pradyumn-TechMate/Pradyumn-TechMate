@@ -25,6 +25,4 @@ I realized that watching tutorials wasn't making me a better developer, so I dec
 ---
 **Why TechMate?** Because I believe technology should be a mate that solves real-world problems, not just lines of code.
 
-[LinkedIn](www.linkedin.com/in/
-pradyumnprajapati
-) | [Twitter/X](Your-Link) | [Portfolio](Your-Link)
+[LinkedIn](www.linkedin.com/in/pradyumnprajapati) | [Twitter/X](Your-Link) | [Portfolio](Your-Link)
