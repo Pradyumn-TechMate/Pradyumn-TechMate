@@ -34,15 +34,16 @@
 
 ---
 
-### Connect wiith Me
+### Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/pradyumnprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.gmail.com/in/pradyumn.engg@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
+<a href="mailto:pradyumn.engg@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" /></a>
 </p>
 
 > "Code is not just syntax; it's a tool to build the future I imagine."
+---
 
-### Why TechMate? 🤖
+### Why TechMate? 
 I chose the name **TechMate** because I believe technology shouldn't be intimidating—it should be a 'mate' (a friend) that helps us solve real-world problems. For me, it's about building software that feels helpful, approachable, and impactful.
 
 ---
